@@ -18,9 +18,3 @@ This project implements a simple order processing system for a small online reta
 - SQLite (or any other SQL database if needed)
 - Alembic for migrations
 
-## Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/mini-order-processing-service.git
-   cd mini-order-processing-service
